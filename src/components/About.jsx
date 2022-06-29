@@ -9,11 +9,12 @@ import HTML from "../assets/html.png";
 import CSS from "../assets/css.png";
 import JS from "../assets/javascript.png";
 import REACT from "../assets/react.png";
+import NodeJS from "../assets/nodejs.png";
 
 export default function About(){
 
     const [skillList, setSkillList] = useState([
-        Python, SQL, CLang, CPP, HTML, CSS, JS, REACT
+        Python, SQL, CLang, CPP, HTML, CSS, JS, REACT, NodeJS
     ]);
 
     return (<div id="about" className="sections">
