@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/farreldinarta/static/css/main.93a1fb5e.css",
-    "main.js": "/farreldinarta/static/js/main.9337eee8.js",
+    "main.js": "/farreldinarta/static/js/main.12a9b822.js",
     "static/media/shopee_code_league_2022.png": "/farreldinarta/static/media/shopee_code_league_2022.a63fdc7e9b544f2a8003.png",
     "static/media/umnpc.png": "/farreldinarta/static/media/umnpc.d60797c285186603a820.png",
     "static/media/project-chess.png": "/farreldinarta/static/media/project-chess.aeac6d1801c0c6f94b1b.png",
     "static/media/Foto_3x4_Kemeja_Putih (NoBG).png": "/farreldinarta/static/media/Foto_3x4_Kemeja_Putih (NoBG).cbbbfcb95891f07a0234.png",
     "static/media/project-eCommerce.png": "/farreldinarta/static/media/project-eCommerce.55f1176d1deda5a9eb9d.png",
     "static/media/progate.png": "/farreldinarta/static/media/progate.d637745f060054d96124.png",
+    "static/media/dicoding.png": "/farreldinarta/static/media/dicoding.3c4e7e6ff1f2ce1548dd.png",
     "static/media/python.png": "/farreldinarta/static/media/python.6a5cbc319ab3ddf8ef92.png",
     "static/media/c.png": "/farreldinarta/static/media/c.ca323b325816f40cf155.png",
     "static/media/project-cashier.png": "/farreldinarta/static/media/project-cashier.db2bdb6cd848938e375a.png",
     "static/media/whatsapp.png": "/farreldinarta/static/media/whatsapp.a5957ffa25fdf0e6018e.png",
+    "static/media/nodejs.png": "/farreldinarta/static/media/nodejs.007e99f68b718e476aba.png",
     "static/media/github.png": "/farreldinarta/static/media/github.302395f917c1e3c66208.png",
     "static/media/instagram.png": "/farreldinarta/static/media/instagram.72e20b7e6f27b2d0a194.png",
     "static/media/cpp.png": "/farreldinarta/static/media/cpp.24a8f93854ab092f17a7.png",
@@ -25,10 +27,10 @@
     "static/media/javascript.png": "/farreldinarta/static/media/javascript.3dfb665e058d08c99f28.png",
     "index.html": "/farreldinarta/index.html",
     "main.93a1fb5e.css.map": "/farreldinarta/static/css/main.93a1fb5e.css.map",
-    "main.9337eee8.js.map": "/farreldinarta/static/js/main.9337eee8.js.map"
+    "main.12a9b822.js.map": "/farreldinarta/static/js/main.12a9b822.js.map"
   },
   "entrypoints": [
     "static/css/main.93a1fb5e.css",
-    "static/js/main.9337eee8.js"
+    "static/js/main.12a9b822.js"
   ]
 }
