@@ -10,11 +10,13 @@ import CSS from "../assets/css.png";
 import JS from "../assets/javascript.png";
 import REACT from "../assets/react.png";
 import NodeJS from "../assets/nodejs.png";
+import PHP from "../assets/php.png";
+import Laravel from "../assets/laravel.png";
 
 export default function About(){
 
     const [skillList, setSkillList] = useState([
-        Python, SQL, CLang, CPP, HTML, CSS, JS, REACT, NodeJS
+        Python, SQL, CLang, CPP, HTML, CSS, JS, REACT, NodeJS, PHP, Laravel
     ]);
 
     return (<div id="about" className="sections">
