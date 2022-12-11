@@ -1,13 +1,17 @@
 {
   "files": {
     "main.css": "/farreldinarta/static/css/main.93a1fb5e.css",
-    "main.js": "/farreldinarta/static/js/main.12a9b822.js",
+    "main.js": "/farreldinarta/static/js/main.b87d02b2.js",
     "static/media/shopee_code_league_2022.png": "/farreldinarta/static/media/shopee_code_league_2022.a63fdc7e9b544f2a8003.png",
     "static/media/umnpc.png": "/farreldinarta/static/media/umnpc.d60797c285186603a820.png",
     "static/media/project-chess.png": "/farreldinarta/static/media/project-chess.aeac6d1801c0c6f94b1b.png",
+    "static/media/php.png": "/farreldinarta/static/media/php.aa680f57bf75b5d5acdc.png",
+    "static/media/projek-konterstrek.png": "/farreldinarta/static/media/projek-konterstrek.1da10d18dc44f2e87d0f.png",
     "static/media/Foto_3x4_Kemeja_Putih (NoBG).png": "/farreldinarta/static/media/Foto_3x4_Kemeja_Putih (NoBG).cbbbfcb95891f07a0234.png",
     "static/media/project-eCommerce.png": "/farreldinarta/static/media/project-eCommerce.55f1176d1deda5a9eb9d.png",
+    "static/media/project-elibrary.png": "/farreldinarta/static/media/project-elibrary.4a9c76dec4dbd8cc9735.png",
     "static/media/progate.png": "/farreldinarta/static/media/progate.d637745f060054d96124.png",
+    "static/media/project-prolangram.png": "/farreldinarta/static/media/project-prolangram.557d126661a82d296897.png",
     "static/media/dicoding.png": "/farreldinarta/static/media/dicoding.3c4e7e6ff1f2ce1548dd.png",
     "static/media/python.png": "/farreldinarta/static/media/python.6a5cbc319ab3ddf8ef92.png",
     "static/media/c.png": "/farreldinarta/static/media/c.ca323b325816f40cf155.png",
@@ -18,6 +22,7 @@
     "static/media/instagram.png": "/farreldinarta/static/media/instagram.72e20b7e6f27b2d0a194.png",
     "static/media/cpp.png": "/farreldinarta/static/media/cpp.24a8f93854ab092f17a7.png",
     "static/media/mysql.png": "/farreldinarta/static/media/mysql.7d8d571e5629923eaf74.png",
+    "static/media/laravel.png": "/farreldinarta/static/media/laravel.279e3fcb19d440713887.png",
     "static/media/location.png": "/farreldinarta/static/media/location.82b0132fb630a71c7cdd.png",
     "static/media/linkedin.png": "/farreldinarta/static/media/linkedin.56fa1019e861e5af3ad9.png",
     "static/media/email.png": "/farreldinarta/static/media/email.ab5a4fc2c21392c51dd5.png",
@@ -27,10 +32,10 @@
     "static/media/javascript.png": "/farreldinarta/static/media/javascript.3dfb665e058d08c99f28.png",
     "index.html": "/farreldinarta/index.html",
     "main.93a1fb5e.css.map": "/farreldinarta/static/css/main.93a1fb5e.css.map",
-    "main.12a9b822.js.map": "/farreldinarta/static/js/main.12a9b822.js.map"
+    "main.b87d02b2.js.map": "/farreldinarta/static/js/main.b87d02b2.js.map"
   },
   "entrypoints": [
     "static/css/main.93a1fb5e.css",
-    "static/js/main.12a9b822.js"
+    "static/js/main.b87d02b2.js"
   ]
 }
