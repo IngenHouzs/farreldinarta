@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/farreldinarta/static/css/main.93a1fb5e.css",
-    "main.js": "/farreldinarta/static/js/main.f5691210.js",
+    "main.js": "/farreldinarta/static/js/main.a23cefc8.js",
     "static/media/shopee_code_league_2022.png": "/farreldinarta/static/media/shopee_code_league_2022.a63fdc7e9b544f2a8003.png",
     "static/media/umnpc.png": "/farreldinarta/static/media/umnpc.d60797c285186603a820.png",
     "static/media/project-chess.png": "/farreldinarta/static/media/project-chess.aeac6d1801c0c6f94b1b.png",
@@ -18,6 +18,7 @@
     "static/media/c.png": "/farreldinarta/static/media/c.ca323b325816f40cf155.png",
     "static/media/project-cashier.png": "/farreldinarta/static/media/project-cashier.db2bdb6cd848938e375a.png",
     "static/media/whatsapp.png": "/farreldinarta/static/media/whatsapp.a5957ffa25fdf0e6018e.png",
+    "static/media/mongodb.png": "/farreldinarta/static/media/mongodb.b27022108fcecf841397.png",
     "static/media/github.png": "/farreldinarta/static/media/github.302395f917c1e3c66208.png",
     "static/media/instagram.png": "/farreldinarta/static/media/instagram.72e20b7e6f27b2d0a194.png",
     "static/media/cpp.png": "/farreldinarta/static/media/cpp.24a8f93854ab092f17a7.png",
@@ -32,10 +33,10 @@
     "static/media/javascript.png": "/farreldinarta/static/media/javascript.3dfb665e058d08c99f28.png",
     "index.html": "/farreldinarta/index.html",
     "main.93a1fb5e.css.map": "/farreldinarta/static/css/main.93a1fb5e.css.map",
-    "main.f5691210.js.map": "/farreldinarta/static/js/main.f5691210.js.map"
+    "main.a23cefc8.js.map": "/farreldinarta/static/js/main.a23cefc8.js.map"
   },
   "entrypoints": [
     "static/css/main.93a1fb5e.css",
-    "static/js/main.f5691210.js"
+    "static/js/main.a23cefc8.js"
   ]
 }
